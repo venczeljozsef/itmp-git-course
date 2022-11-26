@@ -5,6 +5,7 @@
 
         <ul>
             <li>Rántott Camembert</li>
+            <li>Rántott Trappista sajt rizzsel</li>
         </ul>
 
         <h2>Kenhető</h2>
